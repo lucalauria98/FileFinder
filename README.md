@@ -1,4 +1,4 @@
-# 🎵 Song Finder
+# 🎵 FileFinder
 
 **Song Finder** scans your hard drive for video and audio files that contain a specific song — just like Shazam, but for your local files.
 
