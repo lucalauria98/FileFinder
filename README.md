@@ -1,6 +1,6 @@
 # 🎵 FileFinder
 
-**Song Finder** scans your hard drive for video and audio files that contain a specific song — just like Shazam, but for your local files.
+**FileFinder** scans your hard drive for video and audio files that contain a specific song — just like Shazam, but for your local files.
 
 It downloads the song from YouTube as a reference, creates an audio fingerprint, and compares it against every video/audio file in a folder you choose.
 
